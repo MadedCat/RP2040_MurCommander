@@ -1,0 +1,8 @@
+{
+    "terminal.integrated.scrollback": 20000,
+    "files.associations": {
+        "ff.h": "c",
+        "util_sna.h": "c"
+    },
+    "task.autoDetect": "on"
+}
